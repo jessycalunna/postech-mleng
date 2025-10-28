@@ -1,0 +1,5 @@
+flask==2.2.2
+pyjwt==1.2.0
+joblib==1.2.0
+numpy==1.22.4
+sqlalchemy==1.4.44
